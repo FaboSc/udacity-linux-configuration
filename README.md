@@ -1,7 +1,6 @@
 # udacity-linux-configuration
 Udacity project for the linux-server configuration
 * Address: 18.223.116.156
-* SSH-Port: 2200
 * Password for Grader: "udacity"
 
 ## Server configuration
