@@ -73,3 +73,7 @@ Udacity project for the linux-server configuration
  ### Refactor Code
  * Changed database from sqlite to postgresql
  * Adjusted client-secrets.json path
+ 
+ ### Third party sites
+ * [Flask and WSGI](http://flask.pocoo.org/docs/0.12/deploying/mod_wsgi/)
+ * [Postgresql setup](https://www.cyberciti.biz/faq/howto-add-postgresql-user-account/)
