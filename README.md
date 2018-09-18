@@ -74,6 +74,7 @@ Udacity project for the linux-server configuration
  * Changed database from sqlite to postgresql
  * Adjusted client-secrets.json path
  * Added Address to GoogleApi and downloaded new client_secrets.json
+ * Adjusted Redirects
  * Transfered the new client_secrets.json with pscp
  
  ### Third party sites
