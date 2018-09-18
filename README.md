@@ -1,6 +1,6 @@
 # udacity-linux-configuration
 Udacity project for the linux-server configuration
-* Address: 18.223.116.156
+* Address: http://ec2-18-223-116-156.us-east-2.compute.amazonaws.com/
 * SSH-Port: 2200
 * Password for Grader: "udacity"
 
@@ -73,6 +73,8 @@ Udacity project for the linux-server configuration
  ### Refactor Code
  * Changed database from sqlite to postgresql
  * Adjusted client-secrets.json path
+ * Added Address to GoogleApi and downloaded new client_secrets.json
+ * Transfered the new client_secrets.json with pscp
  
  ### Third party sites
  * [Flask and WSGI](http://flask.pocoo.org/docs/0.12/deploying/mod_wsgi/)
